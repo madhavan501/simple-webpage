@@ -35,17 +35,14 @@
       <option value="Btech">Btech</option>
     </select>
     <select name=" year ofEducation">
-      <option value="Diploma">Diploma</option>
-        <option value="Inter">Inter</option>
-      <option value="Btech">Btech</option>
-    
-          
-       
-        
-        
-        
-        
-        </form>
+      <option value="1year">1year</option>
+        <option value="2year">2year</option>
+      <option value="3year">3year</option>
+      <option value="4year">4year</option>
+    </select>
+    </form>
+  </body>
+  </html>
       
          
          
